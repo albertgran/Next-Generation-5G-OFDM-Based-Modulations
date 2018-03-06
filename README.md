@@ -1,4 +1,7 @@
 
+Next Generation 5G OFDM-Based Modulations (OFDM, FBMC, GFDM,
+and UFMC) README:
+
 This MATLAB source code provides an implementation along with examples
 of a the diferent modulations candidate to substitute OFDM in the next 
 generation of cellular systems 5G. I am sharing them with the idea of 
@@ -10,7 +13,7 @@ It contains both transmitter and receiver ends for OOK, OFDM, FBMC, GFDM,
 and UFMC multicarrier modulations. They are standalone and can be adapted 
 for all types of simulation.
 
-These codes have been built by Albert Gran Alcoz from Universitat Politècnica
+These codes have been built by Albert Gran Alcoz from Universitat PolitÃ¨cnica
 de Catalunya, while working under the Optical Communications Lab. Albert, however,
 is only responsible for the adaptations performed. Licenses from the original 
 sources cited below should be taken into consideration. 
