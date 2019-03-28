@@ -21,7 +21,7 @@
  - Address: Barcelona, Spain
 
  ## Published works using this code
- - Next Generation 5G OFDM-Based Modulations forIntensity Modulation-Direct Detection (IM-DD)Optical Fronthauling (in this repo)
+ - Next Generation 5G OFDM-Based Modulations for Intensity Modulation-Direct Detection (IM-DD)Optical Fronthauling (in this repo)
  - Experimental Assessment of 5-10Gbps 5G Multicarrier Waveforms with Intensity-Modulation Direct-Detection for PONs
  - Experimental Assessment of 10Gbps 5G Multicarrier Waveforms for High-layer Split u-DWDM-PON-based Fronthaul 
 
