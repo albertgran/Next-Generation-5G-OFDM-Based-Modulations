@@ -15,10 +15,10 @@
  for all types of simulation.
 
  ## Citing this code
- Title: Next Generation 5G OFDM-Based Modulations (OFDM, FBMC, GFDM, and UFMC)
- Author: Albert Gran Alcoz
- Date release: January 2018
- Address: Barcelona, Spain
+ - Title: Next Generation 5G OFDM-Based Modulations (OFDM, FBMC, GFDM, and UFMC)
+ - Author: Albert Gran Alcoz
+ - Date release: January 2018
+ - Address: Barcelona, Spain
 
  ## Published works using this code
  - Next Generation 5G OFDM-Based Modulations forIntensity Modulation-Direct Detection (IM-DD)Optical Fronthauling (in this repo)
@@ -48,5 +48,6 @@
 
  ## Contact
  Let me know if the code was useful to you :)
+
  In case you have any doubt of implementation, please do not heasitate to contact:
  `albert.gran@alu-etsetb.upc.edu`
