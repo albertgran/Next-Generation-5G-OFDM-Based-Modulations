@@ -42,6 +42,9 @@
 	Vodafone chair/TU Dresden in: http://5gnow.eu/?page_id=427
 	They are not standalone. Notice that for them to work properly, the GFDM library 
 	available on the link above should be included in the project before execution.
+	
+	Note: I have received messages saying that the 5gnow link seems to be down. 
+	Here is an alternative: https://github.com/vodafone-chair/gfdm-lib-matlab
  
 	Copyright (c) 2014 Technical University Dresden, Vodafone Chair Mobile Communication Systems
 	All rights reserved.
