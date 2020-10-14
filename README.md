@@ -16,7 +16,9 @@
 
  ## Citing this code
 Just cite our paper (https://ieeexplore.ieee.org/abstract/document/8751376), and let us know so that we can update the list below :) 
-`@INPROCEEDINGS{8751376,
+
+```
+@INPROCEEDINGS{8751376,
   author={S. {Sarmiento} and A. {Gran} and J. A. {Altabas} and M. {Scalabroni} and S. {Spadaro} and I. {Garces} and J. A. {Lazaro}},
   booktitle={2018 Photonics in Switching and Computing (PSC)}, 
   title={Experimental Assessment of 5-10Gbps 5G Multicarrier Waveforms with Intensity-Modulation Direct-Detection for PONs}, 
@@ -24,8 +26,8 @@ Just cite our paper (https://ieeexplore.ieee.org/abstract/document/8751376), and
   volume={},
   number={},
   pages={1-3},}
-`
-
+```
+	
  ## Published works using this code
  - Next Generation 5G OFDM-Based Modulations for Intensity Modulation-Direct Detection (IM-DD)Optical Fronthauling (in this repo)
  - Experimental Assessment of 5-10Gbps 5G Multicarrier Waveforms with Intensity-Modulation Direct-Detection for PONs
