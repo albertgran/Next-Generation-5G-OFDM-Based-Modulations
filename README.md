@@ -57,8 +57,3 @@ Just cite our paper (https://ieeexplore.ieee.org/abstract/document/8751376), and
 	Copyright (c) 2014 Technical University Dresden, Vodafone Chair Mobile Communication Systems
 	All rights reserved.
 
- ## Contact
- Let me know if the code was useful to you :)
-
- In case you have any doubt of implementation, please do not heasitate to contact:
- `albert.gran@alu-etsetb.upc.edu`
