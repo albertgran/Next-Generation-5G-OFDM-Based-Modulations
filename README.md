@@ -15,7 +15,7 @@
  for all types of simulation.
 
  ## Citing this code
-Just cite our paper (https://ieeexplore.ieee.org/abstract/document/8751376), and let us know so that we can update the list below :) 
+Cite our paper (https://ieeexplore.ieee.org/abstract/document/8751376)
 
 ```
 @INPROCEEDINGS{8751376,
@@ -27,11 +27,6 @@ Just cite our paper (https://ieeexplore.ieee.org/abstract/document/8751376), and
   number={},
   pages={1-3},}
 ```
-	
- ## Published works using this code
- - Next Generation 5G OFDM-Based Modulations for Intensity Modulation-Direct Detection (IM-DD)Optical Fronthauling (in this repo)
- - Experimental Assessment of 5-10Gbps 5G Multicarrier Waveforms with Intensity-Modulation Direct-Detection for PONs
- - Experimental Assessment of 10Gbps 5G Multicarrier Waveforms for High-layer Split u-DWDM-PON-based Fronthaul 
 
  ## Note on licenses
  These codes have been built during the Introduction to Research Program from Universitat Politècnica
